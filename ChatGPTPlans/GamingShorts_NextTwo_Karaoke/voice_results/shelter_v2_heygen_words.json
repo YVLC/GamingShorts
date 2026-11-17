@@ -1,0 +1,231 @@
+{
+  "voice_id": "f49763c1a284420b8f25f16472d8738e",
+  "model": "heygen-voice-1-turbo-free",
+  "script": [
+    "Wait, you can make hot chocolate in Cairn?",
+    "Right in the middle of a brutal climb.",
+    "She actually stops to enjoy her drink.",
+    "Then it is back to managing supplies.",
+    "Flasks, food, every little item matters.",
+    "It is weirdly cozy. Subscribe for more."
+  ],
+  "words": [
+    {
+      "word": "Wait",
+      "start": 0.299,
+      "end": 0.469
+    },
+    {
+      "word": "you",
+      "start": 0.853,
+      "end": 1.152
+    },
+    {
+      "word": "can",
+      "start": 1.195,
+      "end": 1.237
+    },
+    {
+      "word": "make",
+      "start": 1.28,
+      "end": 1.365
+    },
+    {
+      "word": "hot",
+      "start": 1.408,
+      "end": 1.579
+    },
+    {
+      "word": "chocolate",
+      "start": 1.621,
+      "end": 2.005
+    },
+    {
+      "word": "in",
+      "start": 2.048,
+      "end": 2.133
+    },
+    {
+      "word": "Cairn",
+      "start": 2.176,
+      "end": 2.475
+    },
+    {
+      "word": "Right",
+      "start": 3.029,
+      "end": 3.243
+    },
+    {
+      "word": "in",
+      "start": 3.328,
+      "end": 3.413
+    },
+    {
+      "word": "the",
+      "start": 3.456,
+      "end": 3.499
+    },
+    {
+      "word": "middle",
+      "start": 3.541,
+      "end": 3.712
+    },
+    {
+      "word": "of",
+      "start": 3.84,
+      "end": 3.883
+    },
+    {
+      "word": "a",
+      "start": 3.925,
+      "end": 3.968
+    },
+    {
+      "word": "brutal",
+      "start": 4.011,
+      "end": 4.437
+    },
+    {
+      "word": "climb",
+      "start": 4.523,
+      "end": 4.779
+    },
+    {
+      "word": "She",
+      "start": 5.333,
+      "end": 5.461
+    },
+    {
+      "word": "actually",
+      "start": 5.504,
+      "end": 5.632
+    },
+    {
+      "word": "stops",
+      "start": 5.845,
+      "end": 6.229
+    },
+    {
+      "word": "to",
+      "start": 6.357,
+      "end": 6.443
+    },
+    {
+      "word": "enjoy",
+      "start": 6.528,
+      "end": 6.741
+    },
+    {
+      "word": "her",
+      "start": 6.784,
+      "end": 6.869
+    },
+    {
+      "word": "drink",
+      "start": 6.912,
+      "end": 7.125
+    },
+    {
+      "word": "Then",
+      "start": 7.557,
+      "end": 7.728
+    },
+    {
+      "word": "it",
+      "start": 7.984,
+      "end": 8.069
+    },
+    {
+      "word": "is",
+      "start": 8.112,
+      "end": 8.155
+    },
+    {
+      "word": "back",
+      "start": 8.24,
+      "end": 8.453
+    },
+    {
+      "word": "to",
+      "start": 8.539,
+      "end": 8.624
+    },
+    {
+      "word": "managing",
+      "start": 8.667,
+      "end": 8.923
+    },
+    {
+      "word": "supplies",
+      "start": 9.093,
+      "end": 9.435
+    },
+    {
+      "word": "Flasks",
+      "start": 10.117,
+      "end": 10.672
+    },
+    {
+      "word": "food",
+      "start": 11.013,
+      "end": 11.312
+    },
+    {
+      "word": "every",
+      "start": 11.696,
+      "end": 12.123
+    },
+    {
+      "word": "little",
+      "start": 12.251,
+      "end": 12.336
+    },
+    {
+      "word": "item",
+      "start": 12.464,
+      "end": 12.677
+    },
+    {
+      "word": "matters",
+      "start": 12.763,
+      "end": 13.019
+    },
+    {
+      "word": "It",
+      "start": 13.531,
+      "end": 13.573
+    },
+    {
+      "word": "is",
+      "start": 13.616,
+      "end": 13.659
+    },
+    {
+      "word": "weirdly",
+      "start": 13.744,
+      "end": 14.128
+    },
+    {
+      "word": "cozy",
+      "start": 14.213,
+      "end": 14.512
+    },
+    {
+      "word": "Subscribe",
+      "start": 15.109,
+      "end": 15.493
+    },
+    {
+      "word": "for",
+      "start": 15.579,
+      "end": 15.664
+    },
+    {
+      "word": "more",
+      "start": 15.707,
+      "end": 15.835
+    }
+  ],
+  "source": "HeyGen create_speech_with_timestamps: authoritative original_words",
+  "duration_seconds": 16.360612244897958
+}

@@ -1,0 +1,17 @@
+{
+  "id": "small_victory",
+  "origin": "Original deterministic procedural instrumental, generated for GamingShorts at user request.",
+  "composition_source": "tools/generate_original_music.py",
+  "composition_sha256": "5a54570c53e1f9ad7e177184024b47ba7f759ced624175cf40156ed7339acf5f",
+  "audio_sha256": "74b78f34ddba80247b5312597aff3461b06b4f3b6a1592c1d55804d30e2b5b48",
+  "external_samples": [],
+  "external_compositions": [],
+  "generative_service": null,
+  "third_party_audio_license_required": false,
+  "use": "Created for use in the user-owned GamingShorts videos; no third-party recordings, loops, melodies or music services supplied.",
+  "bpm": 96,
+  "sample_rate": 48000,
+  "seconds": 64,
+  "seed": 1,
+  "listening_review": "not_performed"
+}

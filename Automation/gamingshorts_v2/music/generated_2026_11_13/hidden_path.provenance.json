@@ -1,0 +1,17 @@
+{
+  "id": "hidden_path",
+  "origin": "Original deterministic procedural instrumental, generated for GamingShorts at user request.",
+  "composition_source": "tools/generate_original_music.py",
+  "composition_sha256": "5a54570c53e1f9ad7e177184024b47ba7f759ced624175cf40156ed7339acf5f",
+  "audio_sha256": "543734f8c4945ec0283d538928752e5a35c68e8614fb327f5ff599edf41a393c",
+  "external_samples": [],
+  "external_compositions": [],
+  "generative_service": null,
+  "third_party_audio_license_required": false,
+  "use": "Created for use in the user-owned GamingShorts videos; no third-party recordings, loops, melodies or music services supplied.",
+  "bpm": 78,
+  "sample_rate": 48000,
+  "seconds": 64,
+  "seed": 4,
+  "listening_review": "not_performed"
+}

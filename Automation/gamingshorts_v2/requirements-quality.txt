@@ -1,0 +1,2 @@
+# Already available in the tested Ubuntu runtime. No AI service dependency.
+numpy>=1.24

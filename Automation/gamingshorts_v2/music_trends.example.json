@@ -1,0 +1,16 @@
+{
+  "note": "Metadata only. Importing a trend never authorizes local mixing. Platform availability varies by region/account.",
+  "trends": [
+    {
+      "id": "example_sound",
+      "title": "REPLACE",
+      "artist": "REPLACE",
+      "platform": "YouTube",
+      "discovery_date": "2026-11-13",
+      "popularity_evidence": "REPLACE with dated chart or sound-page evidence and methodology",
+      "source_url": "https://official.example/chart",
+      "permitted_usage_route": "platform_only",
+      "usage_condition": "Only add manually through the platform licensed creation tools when available."
+    }
+  ]
+}

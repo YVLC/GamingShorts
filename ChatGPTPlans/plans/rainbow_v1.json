@@ -1,0 +1,65 @@
+{
+  "editorial": {
+    "premise": "A mountain-climbing game unexpectedly becomes an animated rainbow journey with cartoon figures and a mysterious clinical room.",
+    "structure": "before_after",
+    "payoff": "The colorful path eventually reaches a sterile-looking room.",
+    "novelty_reason": "Visual surrealism and cartoon transformation rather than a standard climbing-danger hook.",
+    "evidence": "rainbow_entry 43:26–43:49 and rainbow_payoff 44:07–44:42 video previews, with source timestamps.",
+    "beats": [
+      "Colorful rainbow path beneath a silhouetted figure",
+      "Animated cowboy-like characters race through the clouds",
+      "A giant crowned face appears",
+      "The path leads into a clinical-looking room"
+    ],
+    "game_title": "Cairn",
+    "spoilers": {
+      "level": "minor",
+      "rationale": "A revealing midgame surreal cutscene, but not the ending.",
+      "contains_ending": false
+    }
+  },
+  "clips": [
+    {
+      "start": 2606.3,
+      "duration": 4.8,
+      "narration": "Why did my climbing game suddenly become a cartoon?",
+      "caption": "A CARTOON IN CAIRN?",
+      "evidence": "Rainbow path under the silhouetted climber."
+    },
+    {
+      "start": 2612.3,
+      "duration": 5.2,
+      "narration": "A glowing rainbow road appears out of absolutely nowhere.",
+      "caption": "A RAINBOW ROAD?",
+      "evidence": "Rainbow road extends into the sky."
+    },
+    {
+      "start": 2620.0,
+      "duration": 5.5,
+      "narration": "Then animated characters start flying in from every direction.",
+      "caption": "AND THEN THIS...",
+      "evidence": "Animated characters appear and move across the screen."
+    },
+    {
+      "start": 2650.0,
+      "duration": 5.5,
+      "narration": "A giant crowned face takes over the entire scene.",
+      "caption": "A GIANT CROWNED FACE",
+      "evidence": "Large crowned animated character visible on the rainbow path."
+    },
+    {
+      "start": 2668.0,
+      "duration": 5.5,
+      "narration": "And the rainbow leads somewhere much darker than I expected.",
+      "caption": "IT GETS DARKER",
+      "evidence": "Rainbow becomes red tunnel with unsettling animal face."
+    },
+    {
+      "start": 2674.0,
+      "duration": 5.0,
+      "narration": "A strange laboratory? Seriously? Subscribe for more.",
+      "caption": "WHAT WAS THAT?",
+      "evidence": "Rainbow enters clinical-looking room at about 44:34–44:40."
+    }
+  ]
+}

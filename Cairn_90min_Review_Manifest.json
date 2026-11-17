@@ -1,0 +1,223 @@
+{
+  "title": "Cairn 90-minute recording — first-pass shortlist",
+  "recording": {
+    "source": "/mnt/d/GamingShorts/Sources/videoplayback (2).mp4",
+    "size_bytes": 3934517276,
+    "duration_seconds": 5430.783,
+    "video_codec": "AV1",
+    "width": 2560,
+    "height": 1440,
+    "fps": 60
+  },
+  "source_type": "24 contact sheets, 384 still images, approximately 14.14 s sampling gap; motion/audio must be confirmed separately",
+  "existing_v2_reservations": [
+    {
+      "project": "/mnt/d/GamingShorts/Projects/V2/videoplayback_2_import_c6cb96b0",
+      "start": 3021.0,
+      "end": 3025.0
+    },
+    {
+      "project": "/mnt/d/GamingShorts/Projects/V2/videoplayback_2_import_c6cb96b0",
+      "start": 1918.0,
+      "end": 1922.0
+    },
+    {
+      "project": "/mnt/d/GamingShorts/Projects/V2/videoplayback_2_import_c6cb96b0",
+      "start": 2589.0,
+      "end": 2593.0
+    },
+    {
+      "project": "/mnt/d/GamingShorts/Projects/V2/videoplayback_2_import_c6cb96b0",
+      "start": 3694.0,
+      "end": 3698.0
+    },
+    {
+      "project": "/mnt/d/GamingShorts/Projects/V2/videoplayback_2_import_c6cb96b0",
+      "start": 4653.0,
+      "end": 4658.0
+    },
+    {
+      "project": "/mnt/d/GamingShorts/Projects/V2/videoplayback_2_import_c6cb96b0",
+      "start": 4941.0,
+      "end": 4945.0
+    },
+    {
+      "project": "/mnt/d/GamingShorts/Projects/V2/videoplayback_2_import_c6cb96b0",
+      "start": 5085.0,
+      "end": 5090.0
+    }
+  ],
+  "legacy_v1_note": "Legacy V1 range database is not included in this report; the existing editor checks it separately.",
+  "concepts": [
+    {
+      "id": "rainbow",
+      "priority": 1,
+      "title": "A mountain climb turns into a cartoon nightmare",
+      "angle": "discovery_reveal",
+      "hook_idea": "Why is there a rainbow tunnel in a climbing game?",
+      "visible_evidence": "A rainbow road appears around 00:43:01; cartoon figures and a laboratory-like room are visible until about 00:44:40.",
+      "confidence": "high for visuals; exact transition requires video",
+      "scene_span": [
+        2601,
+        2684
+      ],
+      "windows": [
+        "rainbow_entry",
+        "rainbow_payoff"
+      ],
+      "caution": "The existing V2 edit reserves 00:43:09–00:43:13, so keep all new cuts outside it."
+    },
+    {
+      "id": "shelter",
+      "priority": 6,
+      "title": "The unexpected calm between climbs",
+      "angle": "before_after",
+      "hook_idea": "After all that climbing, this is where I ended up.",
+      "visible_evidence": "A close-up of the climber indoors, drinking or preparing items at around 00:35:28–00:37:07, with inventory overlays.",
+      "confidence": "medium; static menu screens might not retain viewers",
+      "scene_span": [
+        2128,
+        2230
+      ],
+      "windows": [
+        "shelter_scene"
+      ],
+      "caution": "Confirm motion and game context; avoid claiming a scripted narrative not shown."
+    },
+    {
+      "id": "whiteout",
+      "priority": 2,
+      "title": "The mountain nearly disappears in the storm",
+      "angle": "escalating_attempts",
+      "hook_idea": "The visibility got so bad I could barely see the wall.",
+      "visible_evidence": "Snow and ice climbing across 01:05:50–01:07:17; a sudden bright, multicolored sequence appears around 01:07:31.",
+      "confidence": "high for weather/visual transformation; danger needs verification",
+      "scene_span": [
+        3960,
+        4063
+      ],
+      "windows": [
+        "storm_climb",
+        "storm_transition"
+      ],
+      "caution": "Do not claim an avalanche or a death without reviewing actual motion."
+    },
+    {
+      "id": "ice",
+      "priority": 3,
+      "title": "Crossing the glowing ice with two climbing picks",
+      "angle": "close_call",
+      "hook_idea": "This ice section looks impossible to cross.",
+      "visible_evidence": "The player clings to bright icy formations near 01:17:40–01:18:51, with ice-tool prompts onscreen.",
+      "confidence": "medium-high for traverse; close call unverified",
+      "scene_span": [
+        4660,
+        4745
+      ],
+      "windows": [
+        "ice_traverse"
+      ],
+      "caution": "The already-reserved 01:17:33–01:17:38 segment must be excluded."
+    },
+    {
+      "id": "summit",
+      "priority": 4,
+      "title": "At the top of Cairn: an extraordinary landscape",
+      "angle": "cause_and_effect",
+      "hook_idea": "After all that climbing, this is what the summit looks like.",
+      "visible_evidence": "A luminous snowy summit ridge and star field from about 01:23:05–01:25:12; the character appears to reach the top.",
+      "confidence": "high for summit view; chronology needs verification",
+      "scene_span": [
+        4985,
+        5115
+      ],
+      "windows": [
+        "summit_ridge"
+      ],
+      "caution": "The already-reserved 01:24:45–01:24:50 segment must be excluded. This is a major ending spoiler."
+    },
+    {
+      "id": "cosmos",
+      "priority": 5,
+      "title": "Cairn's ending goes beyond the mountain",
+      "angle": "unexpected_solution",
+      "hook_idea": "I thought reaching the peak was the end. Then this happened.",
+      "visible_evidence": "The character floats amid stars around 01:25:26 onward; colorful comet-like streaks and Cairn credits follow around 01:27–01:29.",
+      "confidence": "high for visual ending sequence; interpretive meaning unknown",
+      "scene_span": [
+        5120,
+        5300
+      ],
+      "windows": [
+        "space_float",
+        "comet_sequence"
+      ],
+      "caution": "Major finale spoilers; review actual video before describing the ending's meaning."
+    }
+  ],
+  "preview_windows": [
+    {
+      "id": "rainbow_entry",
+      "concept": "rainbow",
+      "start": 2606.0,
+      "duration": 23.0,
+      "label": "Rainbow tunnel and cartoon figures"
+    },
+    {
+      "id": "rainbow_payoff",
+      "concept": "rainbow",
+      "start": 2647.0,
+      "duration": 35.0,
+      "label": "Cartoon montage and strange room"
+    },
+    {
+      "id": "shelter_scene",
+      "concept": "shelter",
+      "start": 2143.0,
+      "duration": 27.0,
+      "label": "Shelter close-up and inventory"
+    },
+    {
+      "id": "storm_climb",
+      "concept": "whiteout",
+      "start": 3975.0,
+      "duration": 35.0,
+      "label": "Whiteout and icy rock climb"
+    },
+    {
+      "id": "storm_transition",
+      "concept": "whiteout",
+      "start": 4035.0,
+      "duration": 23.0,
+      "label": "Bright transformation near storm"
+    },
+    {
+      "id": "ice_traverse",
+      "concept": "ice",
+      "start": 4670.0,
+      "duration": 35.0,
+      "label": "Ice crossing with climbing tools"
+    },
+    {
+      "id": "summit_ridge",
+      "concept": "summit",
+      "start": 5031.0,
+      "duration": 38.0,
+      "label": "Final snowy ridge, wide landscape"
+    },
+    {
+      "id": "space_float",
+      "concept": "cosmos",
+      "start": 5120.0,
+      "duration": 42.0,
+      "label": "Character lifts off into the stars"
+    },
+    {
+      "id": "comet_sequence",
+      "concept": "cosmos",
+      "start": 5240.0,
+      "duration": 40.0,
+      "label": "Comet trails near end credits"
+    }
+  ]
+}

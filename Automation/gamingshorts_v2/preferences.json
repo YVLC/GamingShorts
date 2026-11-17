@@ -1,0 +1,45 @@
+{
+  "approved": [
+    "Existing Garret voice identity",
+    "Background tension music",
+    "Short CTA over continuing gameplay",
+    "Captions may paraphrase narration while preserving meaning",
+    "2026-11-15 visual-stories-v2 batch: environmental lore and verified design facts",
+    "Full-frame subject tracking, original pixels, CRF 16, native frame cadence",
+    "Caption placement avoids important native game labels and controls"
+  ],
+  "rejected": [
+    "Inaudible narration",
+    "Missing music",
+    "Recycled hooks or commentary without new viewer value",
+    "Generic unrelated scenery",
+    "Static subscribe end card",
+    "Paid HeyGen credits or paid fallback",
+    "Caption boxes/missing glyphs"
+  ],
+  "constraints": [
+    "Use existing source footage",
+    "Preserve prior outputs",
+    "No automatic publishing",
+    "No source deletion"
+  ],
+  "editorial": "Create original visually driven Cairn stories focused on its world lore, environmental secrets, real easter eggs, demonstrated tricks/how-to, funny or scary gameplay, interesting facts and beautiful scenery. Do not build stories around conversations or interpretations of dialogue. Creative angles and hooks are welcome; factual secrets, lore and mechanics must be supported. Use fullscreen 9:16 subject tracking with captions over the footage, no blurred filler, and highest practical source-preserving image quality.",
+  "story_examples": [
+    "Environmental clues to Mount Kami's history",
+    "A demonstrated mechanic or practical trick",
+    "A beautiful or unsettling visual discovery"
+  ],
+  "music": "Prefer fitting cleared trending instrumental tracks. Vocal music is allowed when appropriate and intelligibility is preserved. Never claim a trend without recent evidence.",
+  "captions": "Real speech-timestamp yellow active-word highlighting across all narration.",
+  "footage_reuse": "User explicitly authorized reuse of the current Cairn recording for new story-led clips. Reusing source ranges or a central event is allowed; keep added-value commentary, evidence, explicit rejections, and prior outputs. Do not repeat a source interval within the same clip.",
+  "quality_reference": "approved_quality_reference.json",
+  "quality_standard": "Use the approved batch as a style and finish reference, never as permission to repeat its hooks, scripts or facts. Pick a clear discovery or useful idea, write natural concrete narration, verify outside facts, inspect the actual crop with a representative caption before speech, and preserve the free Garret voice and full yellow word timing.",
+  "publication_authorization": {
+    "date": "2026-11-15",
+    "approved_output_sha256": [
+      "367bd565a4cb913a288c1110130d1b1bb1ec55a4e8837ff04d923b7fab344dfa",
+      "7dd3f9883d27e2ee79e662382527fa2e632b360f6f87ceaed4384797263d7317"
+    ],
+    "scope": "Upload these two exact approved exports. Future clips still require user approval."
+  }
+}

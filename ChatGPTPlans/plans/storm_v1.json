@@ -1,0 +1,65 @@
+{
+  "editorial": {
+    "premise": "A difficult climb through a snowstorm escalates into a sudden, vividly lit midair transition.",
+    "structure": "escalating_attempts",
+    "payoff": "The climber is surrounded by bright blue and purple effects during a dramatic fall-like transition.",
+    "novelty_reason": "Weather and a sudden visual transition distinguish this from the rainbow cutscene and prior generic climbing hooks.",
+    "evidence": "storm_climb 66:15–66:50, storm_transition 67:15–67:38, video preview movements; do not claim death or survival.",
+    "beats": [
+      "Show the stunning midair moment first",
+      "Return to snowy wall with poor visibility",
+      "Climber searches for small footholds",
+      "A sudden dramatic airborne transition fills the screen with color"
+    ],
+    "game_title": "Cairn",
+    "spoilers": {
+      "level": "minor",
+      "rationale": "Late-game climbing conditions and dramatic environmental transition, but not the final story resolution.",
+      "contains_ending": false
+    }
+  },
+  "clips": [
+    {
+      "start": 4046.7,
+      "duration": 5.0,
+      "narration": "This is what happened when the mountain stopped playing fair.",
+      "caption": "WHAT JUST HAPPENED?",
+      "evidence": "Bright snowy airborne fall-like action begins near 67:27."
+    },
+    {
+      "start": 3976.0,
+      "duration": 5.0,
+      "narration": "It started with a wall almost hidden by snow.",
+      "caption": "BARELY ANY VISIBILITY",
+      "evidence": "Character climbing barely visible snowy rock."
+    },
+    {
+      "start": 3989.0,
+      "duration": 5.0,
+      "narration": "Every move meant reaching for another tiny icy ledge.",
+      "caption": "ONE HOLD AT A TIME",
+      "evidence": "Character navigates small ice holds near cliff."
+    },
+    {
+      "start": 4001.5,
+      "duration": 5.0,
+      "narration": "And the climb just kept getting harder to read.",
+      "caption": "WHERE IS THE NEXT HOLD?",
+      "evidence": "Snowy passage and awkward ledges."
+    },
+    {
+      "start": 4040.0,
+      "duration": 6.0,
+      "narration": "Then the scene opened into something I did not expect.",
+      "caption": "THEN THE DROP...",
+      "evidence": "Icy gap and the shift toward bright airborne shot."
+    },
+    {
+      "start": 4052.0,
+      "duration": 5.0,
+      "narration": "That transition is wild. Subscribe for more.",
+      "caption": "THE MOUNTAIN IS WILD",
+      "evidence": "Colorful blue-violet airborne effect after icy traverse."
+    }
+  ]
+}

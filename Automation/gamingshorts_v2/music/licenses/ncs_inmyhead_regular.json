@@ -1,0 +1,28 @@
+{
+  "track_id": "ncs_inmyhead_regular",
+  "title": "IN MY HEAD",
+  "artist": "SFRNG, Aizu, SOVAGI",
+  "source_url": "https://ncs.io/s_inmyhead",
+  "policy_url": "https://ncs.io/usage-policy/terms",
+  "review_date": "2026-11-13",
+  "permission_scope": "Synchronization of the named NCS release in independent-creator GamingShorts YouTube UGC, with the release-specific description credit; not standalone music uploads or unreviewed advertising/brand use.",
+  "audio_sha256": "7167f34f5a77f95ee3771f1b9b99254a1d5f77242f96d07438078daada4ad4d0",
+  "version": "regular_user_supplied_sha256_7167f34f5a77f95e",
+  "local_identity_evidence": {
+    "title": "IN MY HEAD",
+    "artist": "SFRNG, SOVAGI & Aizu",
+    "album_artist": "SFRNG, SOVAGI & Aizu",
+    "album": "IN MY HEAD",
+    "iTunNORM": " 00000F08 00000F09 00006EC0 000070A6 00021407 0001D78D 00008000 00008000 00004F54 00006245",
+    "genre": "House",
+    "iTunPGAP": "0",
+    "date": "2026",
+    "encoder": "Lavf58.12.100"
+  },
+  "identity_limit": "User-supplied named release; title/artist/duration match available release information. No authoritative publisher byte checksum was available. Not an instrumental, sped-up, slowed or remix clearance.",
+  "attribution_required": true,
+  "attribution": "Song: Aizu, SFRNG, SOVAGI - IN MY HEAD\nMusic provided by NoCopyrightSounds\nFree Download/Stream: https://ncs.io/S_inmyhead\nWatch: http://ncs.lnk.to/S_inmyheadAT/youtube",
+  "approved_use": "youtube_ugc",
+  "no_audio_downloaded": true,
+  "popularity_excerpt_status": "No exact-version externally verified trending timestamps found; musical highlights must be labeled inferred."
+}

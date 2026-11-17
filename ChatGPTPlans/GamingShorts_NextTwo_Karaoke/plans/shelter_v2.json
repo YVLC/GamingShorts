@@ -1,0 +1,65 @@
+{
+  "editorial": {
+    "premise": "The climbing game spends surprising detail on a quiet survival routine involving hot chocolate and rearranging supplies. Edited for quicker hooks and short spoken phrases with precise karaoke highlighting.",
+    "structure": "cause_and_effect",
+    "payoff": "The small, ordinary routine makes the extreme climb feel tangible and human.",
+    "novelty_reason": "Warm survival equipment and rest rather than dramatic cliffs or late-game reveals. Revised narration varies pacing and avoids duplicate hook wording.",
+    "evidence": "shelter_scene 35:43–36:10 preview shows chocolate drink item, drinking motion, flask, tea bag and supplies.",
+    "beats": [
+      "Chocolate drink item shown during a rest",
+      "Character handles a drink",
+      "Inventory shifts to flask and other supplies",
+      "Contrast ordinary preparation with extraordinary climb"
+    ],
+    "game_title": "Cairn",
+    "spoilers": {
+      "level": "none",
+      "rationale": "Equipment and shelter interaction without visible plot or ending revelations.",
+      "contains_ending": false
+    }
+  },
+  "clips": [
+    {
+      "start": 2145.0,
+      "duration": 4.2,
+      "narration": "Wait, you can make hot chocolate in Cairn?",
+      "caption": "WAIT, YOU CAN MAKE HOT CHOCOLATE IN CAIRN?",
+      "evidence": "Chocolate drink tooltip is visible while character prepares a drink."
+    },
+    {
+      "start": 2149.2,
+      "duration": 4.2,
+      "narration": "Right in the middle of a brutal climb.",
+      "caption": "RIGHT IN THE MIDDLE OF A BRUTAL CLIMB.",
+      "evidence": "Character looks down at cup/item while shelter is visible."
+    },
+    {
+      "start": 2153.4,
+      "duration": 4.2,
+      "narration": "She actually stops to enjoy her drink.",
+      "caption": "SHE ACTUALLY STOPS TO ENJOY HER DRINK.",
+      "evidence": "Character drinking from cup."
+    },
+    {
+      "start": 2157.6,
+      "duration": 4.2,
+      "narration": "Then it is back to managing supplies.",
+      "caption": "THEN IT IS BACK TO MANAGING SUPPLIES.",
+      "evidence": "Inventory opens with equipment slots."
+    },
+    {
+      "start": 2161.8,
+      "duration": 4.2,
+      "narration": "Flasks, food, every little item matters.",
+      "caption": "FLASKS, FOOD, EVERY LITTLE ITEM MATTERS.",
+      "evidence": "Flask and tea bag items shown in inventory."
+    },
+    {
+      "start": 2166.0,
+      "duration": 4.0,
+      "narration": "It is weirdly cozy. Subscribe for more.",
+      "caption": "IT IS WEIRDLY COZY. SUBSCRIBE FOR MORE.",
+      "evidence": "Character looks up and leaves the item selection."
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "voice_id": "f49763c1a284420b8f25f16472d8738e",
+  "model": "heygen-voice-1-turbo-free",
+  "script": [
+    "Cairn turned a blizzard into this.",
+    "A moment earlier, I could barely see the rock.",
+    "I kept reaching for tiny icy handholds.",
+    "And the route only got harder to read.",
+    "Then, without warning, the whole scene changed.",
+    "I did not expect that. Subscribe for more."
+  ],
+  "words": [
+    {
+      "word": "Cairn",
+      "start": 0.256,
+      "end": 0.597
+    },
+    {
+      "word": "turned",
+      "start": 0.683,
+      "end": 0.896
+    },
+    {
+      "word": "a",
+      "start": 0.939,
+      "end": 1.024
+    },
+    {
+      "word": "blizzard",
+      "start": 1.067,
+      "end": 1.451
+    },
+    {
+      "word": "into",
+      "start": 1.536,
+      "end": 1.621
+    },
+    {
+      "word": "this",
+      "start": 1.707,
+      "end": 1.835
+    },
+    {
+      "word": "A",
+      "start": 2.304,
+      "end": 2.645
+    },
+    {
+      "word": "moment",
+      "start": 2.688,
+      "end": 2.773
+    },
+    {
+      "word": "earlier",
+      "start": 2.901,
+      "end": 3.072
+    },
+    {
+      "word": "I",
+      "start": 3.499,
+      "end": 3.755
+    },
+    {
+      "word": "could",
+      "start": 3.797,
+      "end": 3.883
+    },
+    {
+      "word": "barely",
+      "start": 3.925,
+      "end": 4.224
+    },
+    {
+      "word": "see",
+      "start": 4.352,
+      "end": 4.48
+    },
+    {
+      "word": "the",
+      "start": 4.523,
+      "end": 4.608
+    },
+    {
+      "word": "rock",
+      "start": 4.651,
+      "end": 4.821
+    },
+    {
+      "word": "I",
+      "start": 5.419,
+      "end": 5.504
+    },
+    {
+      "word": "kept",
+      "start": 5.547,
+      "end": 5.632
+    },
+    {
+      "word": "reaching",
+      "start": 5.717,
+      "end": 6.016
+    },
+    {
+      "word": "for",
+      "start": 6.101,
+      "end": 6.229
+    },
+    {
+      "word": "tiny",
+      "start": 6.272,
+      "end": 6.613
+    },
+    {
+      "word": "icy",
+      "start": 6.784,
+      "end": 7.168
+    },
+    {
+      "word": "handholds",
+      "start": 7.253,
+      "end": 7.808
+    },
+    {
+      "word": "And",
+      "start": 8.153,
+      "end": 8.281
+    },
+    {
+      "word": "the",
+      "start": 8.324,
+      "end": 8.409
+    },
+    {
+      "word": "route",
+      "start": 8.452,
+      "end": 8.665
+    },
+    {
+      "word": "only",
+      "start": 8.708,
+      "end": 8.751
+    },
+    {
+      "word": "got",
+      "start": 8.793,
+      "end": 8.921
+    },
+    {
+      "word": "harder",
+      "start": 8.964,
+      "end": 9.22
+    },
+    {
+      "word": "to",
+      "start": 9.263,
+      "end": 9.348
+    },
+    {
+      "word": "read",
+      "start": 9.391,
+      "end": 9.561
+    },
+    {
+      "word": "Then",
+      "start": 10.201,
+      "end": 10.372
+    },
+    {
+      "word": "without",
+      "start": 10.756,
+      "end": 10.884
+    },
+    {
+      "word": "warning",
+      "start": 11.055,
+      "end": 11.311
+    },
+    {
+      "word": "the",
+      "start": 11.908,
+      "end": 12.036
+    },
+    {
+      "word": "whole",
+      "start": 12.079,
+      "end": 12.292
+    },
+    {
+      "word": "scene",
+      "start": 12.463,
+      "end": 12.719
+    },
+    {
+      "word": "changed",
+      "start": 12.889,
+      "end": 13.145
+    },
+    {
+      "word": "I",
+      "start": 13.913,
+      "end": 13.999
+    },
+    {
+      "word": "did",
+      "start": 14.041,
+      "end": 14.084
+    },
+    {
+      "word": "not",
+      "start": 14.127,
+      "end": 14.297
+    },
+    {
+      "word": "expect",
+      "start": 14.383,
+      "end": 14.596
+    },
+    {
+      "word": "that",
+      "start": 14.681,
+      "end": 14.809
+    },
+    {
+      "word": "Subscribe",
+      "start": 15.407,
+      "end": 15.791
+    },
+    {
+      "word": "for",
+      "start": 15.876,
+      "end": 15.961
+    },
+    {
+      "word": "more",
+      "start": 16.004,
+      "end": 16.132
+    }
+  ],
+  "source": "HeyGen create_speech_with_timestamps: authoritative original_words",
+  "duration_seconds": 16.581201814058957
+}

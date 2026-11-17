@@ -1,0 +1,39 @@
+{
+  "audio_url": "https://resource2.heygen.ai/text_to_speech/864bdcadd6704168b8b172daf5b75c82/f49763c1a284420b8f25f16472d8738e/id=916981bdb64f4573a4f8160f990e1c76.wav",
+  "duration_seconds": 16.581201814058957,
+  "voice_id": "f49763c1a284420b8f25f16472d8738e",
+  "model": "heygen-voice-1-turbo-free",
+  "cta_start_seconds": 15.407,
+  "phrases": [
+    {
+      "index": 1,
+      "first_word_start": 0.256,
+      "last_word_end": 1.835
+    },
+    {
+      "index": 2,
+      "first_word_start": 2.304,
+      "last_word_end": 4.821
+    },
+    {
+      "index": 3,
+      "first_word_start": 5.419,
+      "last_word_end": 7.808
+    },
+    {
+      "index": 4,
+      "first_word_start": 8.153,
+      "last_word_end": 9.561
+    },
+    {
+      "index": 5,
+      "first_word_start": 10.201,
+      "last_word_end": 13.145
+    },
+    {
+      "index": 6,
+      "first_word_start": 13.913,
+      "last_word_end": 16.132
+    }
+  ]
+}

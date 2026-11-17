@@ -1,0 +1,72 @@
+[
+  {
+    "id": "thin_air",
+    "peak_dbfs": -13.954992711018894,
+    "max_adjacent_step": 0.020770593158581888,
+    "start": [
+      0.0,
+      0.0
+    ],
+    "end": [
+      -0.0,
+      -0.0
+    ],
+    "clipped_samples": 0
+  },
+  {
+    "id": "small_victory",
+    "peak_dbfs": -14.206184143602547,
+    "max_adjacent_step": 0.03028808547396996,
+    "start": [
+      0.0,
+      0.0
+    ],
+    "end": [
+      0.0,
+      0.0
+    ],
+    "clipped_samples": 0
+  },
+  {
+    "id": "steady_hands",
+    "peak_dbfs": -14.504612742846078,
+    "max_adjacent_step": 0.019263673843044553,
+    "start": [
+      0.0,
+      0.0
+    ],
+    "end": [
+      -0.0,
+      -0.0
+    ],
+    "clipped_samples": 0
+  },
+  {
+    "id": "one_more_hold",
+    "peak_dbfs": -13.97405856490085,
+    "max_adjacent_step": 0.03223354039121671,
+    "start": [
+      0.0,
+      0.0
+    ],
+    "end": [
+      -0.0,
+      -0.0
+    ],
+    "clipped_samples": 0
+  },
+  {
+    "id": "hidden_path",
+    "peak_dbfs": -14.182924208521968,
+    "max_adjacent_step": 0.02081412250483156,
+    "start": [
+      0.0,
+      0.0
+    ],
+    "end": [
+      -0.0,
+      -0.0
+    ],
+    "clipped_samples": 0
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "note": "Observational feedback only; never automatically inferred from technical QC. No publication action.",
+  "results": [],
+  "record_example": {
+    "segment_id": "REPLACE with existing segment ID",
+    "evidence_url": "https://REPLACE-with-analytics-or-review-evidence",
+    "observed_date": "2026-11-13",
+    "metrics": {
+      "editor_rating": 0.8,
+      "views": 1000,
+      "likes": 30,
+      "average_view_percentage": 85
+    }
+  }
+}

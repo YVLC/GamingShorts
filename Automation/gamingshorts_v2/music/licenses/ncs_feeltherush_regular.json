@@ -1,0 +1,29 @@
+{
+  "track_id": "ncs_feeltherush_regular",
+  "title": "FEEL THE RUSH",
+  "artist": "tonytonychopper999",
+  "source_url": "https://ncs.io/feeltherush",
+  "policy_url": "https://ncs.io/usage-policy/terms",
+  "review_date": "2026-11-13",
+  "permission_scope": "Synchronization of the named NCS release in independent-creator GamingShorts YouTube UGC, with the release-specific description credit; not standalone music uploads or unreviewed advertising/brand use.",
+  "audio_sha256": "a748e5b8c657df8e544a432e65c5a06165bf9a6a28f9994e86241674300c0633",
+  "version": "regular_user_supplied_sha256_a748e5b8c657df8e",
+  "local_identity_evidence": {
+    "title": "FEEL THE RUSH [NCS Release]",
+    "artist": "tonytonychopper999",
+    "album_artist": "tonytonychopper999",
+    "TCM": "Tony Xiao Tong Zhou",
+    "album": "FEEL THE RUSH",
+    "iTunNORM": " 00004D68 00004E29 0001ACBF 000172B7 000004F1 0000ED3B 00007C89 00007FFC 00000000 0001F61A",
+    "genre": "Complextro",
+    "iTunPGAP": "0",
+    "date": "2026",
+    "encoder": "Lavf58.12.100"
+  },
+  "identity_limit": "User-supplied named release; title/artist/duration match available release information. No authoritative publisher byte checksum was available. Not an instrumental, sped-up, slowed or remix clearance.",
+  "attribution_required": true,
+  "attribution": "Song: tonytonychopper999 - FEEL THE RUSH\nMusic provided by NoCopyrightSounds\nFree Download/Stream: http://ncs.io/feeltherush\nWatch: https://ncs.lnk.to/feeltherushAT/youtube",
+  "approved_use": "youtube_ugc",
+  "no_audio_downloaded": true,
+  "popularity_excerpt_status": "No exact-version externally verified trending timestamps found; musical highlights must be labeled inferred."
+}

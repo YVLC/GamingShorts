@@ -1,0 +1,21 @@
+[Unit]
+Description=GamingShorts durable recording queue
+StartLimitIntervalSec=300
+StartLimitBurst=3
+
+[Service]
+Type=simple
+WorkingDirectory=/mnt/d/GamingShorts
+Environment="PATH=%h/.local/bin:/usr/local/bin:/usr/bin:/bin"
+Environment=GAMING_SHORTS_HOME=/mnt/d/GamingShorts
+Environment=PYTHONUNBUFFERED=1
+ExecStart=/usr/bin/python3 /mnt/d/GamingShorts/start.py --watch
+Restart=on-failure
+RestartSec=30
+KillMode=control-group
+TimeoutStopSec=30
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=default.target

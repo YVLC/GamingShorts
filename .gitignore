@@ -1,0 +1,47 @@
+# Local tools and Python caches
+.tools/
+__pycache__/
+*.py[cod]
+.ruff_cache/
+.venv/
+
+# Credentials
+.env
+.env.*
+!.env.example
+.aws/
+
+# Media, generated artifacts, history and retained release snapshots
+*.mp4
+*.mkv
+*.mov
+*.webm
+*.wav
+*.mp3
+*.zip
+*.sqlite3*
+*.log
+/Audio/
+/Database/
+/AutomationLogs/
+/Exports/
+/Failed/
+/FootageIndex/
+/Models/
+/Music/
+/Projects/
+/QualityAB_2026_11/
+/Ready/
+/ReadyForReview/
+/Review/
+/ReviewCopies/
+/ReviewExports/
+/Sources/
+/SplitRetry/
+/_Processing/
+/_QueueState/
+/_RenderWork/
+/Releases/
+/Automation/*backup*/
+/Automation/gamingshorts_v2/Backups/
+.align-venv/

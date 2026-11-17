@@ -1,0 +1,26 @@
+{
+  "note": "Schema supports 20+ tracks with no fixed limit. Import keeps tracks pending. Review real rights evidence, then use tools/music.py approve. This template grants no rights.",
+  "tracks": [
+    {
+      "id": "local_track_01",
+      "title": "Track title",
+      "artist": "Artist name",
+      "source": "official local acquisition",
+      "genre": "electronic instrumental",
+      "mood": "suspense",
+      "energy": 0.6,
+      "bpm": 100,
+      "beats": [],
+      "license": "REPLACE with applicable exact terms",
+      "license_evidence": "licenses/track_01.txt",
+      "source_url": "https://official.example/track",
+      "path": "audio/track_01.wav",
+      "attribution": "REPLACE with exact required credit, or empty only if none is required",
+      "attribution_required": true,
+      "approval_status": "pending",
+      "usage_route": "cleared",
+      "permitted_use": "youtube_ugc",
+      "enabled": true
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "editorial": {
+    "premise": "The climbing game spends surprising detail on a quiet survival routine involving hot chocolate and rearranging supplies.",
+    "structure": "cause_and_effect",
+    "payoff": "The small, ordinary routine makes the extreme climb feel tangible and human.",
+    "novelty_reason": "Warm survival equipment and rest rather than dramatic cliffs or late-game reveals.",
+    "evidence": "shelter_scene 35:43–36:10 preview shows chocolate drink item, drinking motion, flask, tea bag and supplies.",
+    "beats": [
+      "Chocolate drink item shown during a rest",
+      "Character handles a drink",
+      "Inventory shifts to flask and other supplies",
+      "Contrast ordinary preparation with extraordinary climb"
+    ],
+    "game_title": "Cairn",
+    "spoilers": {
+      "level": "none",
+      "rationale": "Equipment and shelter interaction without visible plot or ending revelations.",
+      "contains_ending": false
+    }
+  },
+  "clips": [
+    {
+      "start": 2145.0,
+      "duration": 4.2,
+      "narration": "Why does this climbing game have hot chocolate?",
+      "caption": "HOT CHOCOLATE?",
+      "evidence": "Chocolate drink tooltip is visible while character prepares a drink."
+    },
+    {
+      "start": 2149.2,
+      "duration": 4.2,
+      "narration": "Even taking a break is part of surviving the mountain.",
+      "caption": "SURVIVAL IS IN THE DETAILS",
+      "evidence": "Character looks down at cup/item while shelter is visible."
+    },
+    {
+      "start": 2153.4,
+      "duration": 4.2,
+      "narration": "You can actually watch the climber enjoy a drink.",
+      "caption": "TIME FOR A BREAK",
+      "evidence": "Character drinking from cup."
+    },
+    {
+      "start": 2157.6,
+      "duration": 4.2,
+      "narration": "Then it is straight back to organizing your supplies.",
+      "caption": "BACK TO THE INVENTORY",
+      "evidence": "Inventory opens with equipment slots."
+    },
+    {
+      "start": 2161.8,
+      "duration": 4.2,
+      "narration": "Water, a flask, and food all need attention.",
+      "caption": "EVERY ITEM COUNTS",
+      "evidence": "Flask and tea bag items shown in inventory."
+    },
+    {
+      "start": 2166.0,
+      "duration": 4.0,
+      "narration": "It makes the climb feel real. Subscribe for more.",
+      "caption": "EVEN RESTING MATTERS",
+      "evidence": "Character looks up and leaves the item selection."
+    }
+  ]
+}

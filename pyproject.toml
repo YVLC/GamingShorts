@@ -1,0 +1,18 @@
+[tool.ruff]
+target-version = "py310"
+line-length = 100
+extend-exclude = [
+    ".tools", "Releases", "Upgrades", "ChatGPTPlans", "Shorts_Queue",
+    "Shorts_Renderer", "Cairn_Ubuntu_Toolkit", "Automation/*backup*",
+    "Automation/gamingshorts_automation_v1", "Automation/gamingshorts_v2/Backups",
+    # Source bytes participate in existing render/approval identities.
+    "Automation/gamingshorts_v2/gaming_shorts.py",
+    "Automation/gamingshorts_v2/captions.py",
+]
+
+[tool.ruff.lint]
+select = ["E9", "F63", "F7", "F82"]
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"

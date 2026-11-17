@@ -1,0 +1,28 @@
+{
+  "note": "Only externally reviewed, exact-version excerpt evidence belongs in segments. Song-level popularity and audio energy do not qualify. Empty segments is a safe no-op.",
+  "segments": [],
+  "record_example": {
+    "track_id": "ncs_royalty_regular",
+    "audio_sha256": "REPLACE with exact local approved SHA256",
+    "version": "REPLACE with exact version_id from music catalog",
+    "start": 0,
+    "end": 60,
+    "climax": 25,
+    "confidence": 0.8,
+    "verified_date": "2026-11-13",
+    "verified_by": "REPLACE with reviewer identity",
+    "mood": "epic",
+    "energy": 0.8,
+    "evidence": [
+      {
+        "url": "https://REPLACE-with-public-excerpt-evidence",
+        "scope": "excerpt_popularity",
+        "claim": "REPLACE with evidence supporting popularity of these exact timestamps and version",
+        "version": "REPLACE with same version_id",
+        "song_start": 0,
+        "song_end": 60,
+        "observed_date": "2026-11-13"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "trends": [
+    {
+      "id": "bad-times-imael",
+      "title": "BAD TIMES",
+      "artist": "Imael Angel",
+      "platform": "YouTube",
+      "discovery_date": "2026-11-13",
+      "popularity_evidence": "ClipMusic user-submitted identification chart rank 1, rolling Nov 6-13 2026; NOT official YouTube usage rank or global play count.",
+      "source_url": "https://clipmusic.ai/charts/youtube-shorts",
+      "permitted_usage_route": "platform_only",
+      "usage_condition": "Only through YouTube Shorts licensed creation tools if the exact sound is available to the account and region. This record grants no FFmpeg permission.",
+      "region": "not representative of Netherlands; user-submitted sample",
+      "chart_rank": 1,
+      "observed_update_utc": "2026-11-13T18:09:00Z"
+    },
+    {
+      "id": "numbers-temporex",
+      "title": "Numbers",
+      "artist": "TEMPOREX",
+      "platform": "YouTube",
+      "discovery_date": "2026-11-13",
+      "popularity_evidence": "ClipMusic user-submitted identification chart rank 4, rolling Nov 6-13 2026; NOT official YouTube usage rank or global play count.",
+      "source_url": "https://clipmusic.ai/charts/youtube-shorts",
+      "permitted_usage_route": "platform_only",
+      "usage_condition": "Only through YouTube Shorts licensed creation tools if the exact sound is available to the account and region. This record grants no FFmpeg permission.",
+      "region": "not representative of Netherlands; user-submitted sample",
+      "chart_rank": 4,
+      "observed_update_utc": "2026-11-13T18:09:00Z"
+    },
+    {
+      "id": "royalty-ncs",
+      "title": "Royalty",
+      "artist": "Egzod, Maestro Chives & Neoni",
+      "platform": "YouTube",
+      "discovery_date": "2026-11-13",
+      "popularity_evidence": "ClipMusic user-submitted identification chart rank 21, rolling Nov 6-13 2026; NOT official YouTube usage rank or global play count.",
+      "source_url": "https://clipmusic.ai/charts/youtube-shorts",
+      "permitted_usage_route": "platform_only",
+      "usage_condition": "Only through YouTube Shorts licensed creation tools if the exact sound is available to the account and region. This record grants no FFmpeg permission.",
+      "region": "not representative of Netherlands; user-submitted sample",
+      "chart_rank": 21,
+      "observed_update_utc": "2026-11-13T18:09:00Z"
+    }
+  ]
+}

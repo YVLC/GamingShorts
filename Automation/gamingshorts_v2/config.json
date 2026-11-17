@@ -1,0 +1,40 @@
+{
+    "root":  "../..",
+    "voice_id":  "f49763c1a284420b8f25f16472d8738e",
+    "voice_model":  "heygen-voice-1-turbo-free",
+    "width":  1080,
+    "height":  1920,
+    "fps":  60,
+    "music_lufs":  -33,
+    "voice_lufs":  -16,
+    "caption_mode":  "karaoke",
+    "crf":  16,
+    "x264_preset":  "medium",
+    "active_source":  "Sources/videoplayback.webm",
+    "active_game":  "cairn",
+    "creative_scene_budget":  6,
+    "editorial_policy":  "gaming-stories-v2",
+    "music_rotation":  true,
+    "audio_mix":  {
+                      "ducking":  true,
+                      "threshold":  0.015,
+                      "ratio":  8,
+                      "attack_ms":  15,
+                      "release_ms":  300,
+                      "fade_in":  0.5,
+                      "fade_out":  1.1,
+                      "target_lufs":  -16,
+                      "true_peak_db":  -1.5,
+                      "gameplay_db":  -26,
+                      "beat_sync":  true
+                  },
+    "preserve_gameplay_audio":  true,
+    "music_strategy":  "story_music",
+    "analysis_mode":  "local_first",
+    "music_prefer_instrumental":  true,
+    "music_prefer_trending":  true,
+    "footage_reuse_sources":  [
+                                  "bd18af221a4ea5e4b71d805bcb511decaf10c1eda6093ba38959a8b52618e643"
+                              ],
+    "caption_y":  0.82
+}
